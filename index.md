@@ -3,7 +3,7 @@ layout: cv
 title: Anton Grigoryev's CV
 ---
 # Anton Grigoryev 
-Senior python developer / Team lead
+Senior python developer & Team lead
 
 <div id="webaddress">
 Email: <a href="mail@griganton.ru">mail@griganton.ru</a>
@@ -25,12 +25,16 @@ Backend development Team Lead @ Yandex
 ## Education
 
 `2017-2018`
-__Yandex School of Data Science__
-- ML & Data analysis course
+__Yandex School of Data Analysis__
+- ML & Data analysis courses
 
 `2016`
-__Higher School of Economics (National Research University)__
+__National Research University Higher School of Economics__
 - Recommendation systems and algorithms 
+
+`2016`
+__National Research University Higher School of Economics & Yandex School of Data Analysis @ Coursera__
+- [Introduction to machine learning](https://www.coursera.org/account/accomplishments/verify/GF6KHCFXZMQ2) course
 
 `2007-2009`
 __Gubkin Russian State University of Oil and Gas (National Research University)__
