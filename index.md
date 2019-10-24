@@ -3,8 +3,7 @@ layout: cv
 title: Anton Grigoryev's CV
 ---
 # Anton Grigoryev 
-Senior python developer
-Team lead
+Senior python developer / Team lead
 
 <div id="webaddress">
 Email: <a href="mail@griganton.ru">mail@griganton.ru</a>
