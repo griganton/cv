@@ -15,7 +15,7 @@ Phone: +79670359937
 
 Backend development Team Lead @ Yandex
 
-### Skills
+## Skills
 
 Software development, Team management, Machine learning 
 Python, Django, Flask, aiohhtp, Postgresql, Mongodb, Clickhouse 
@@ -65,8 +65,12 @@ __Engineer__
 - Software development based on the National Instruments stack (LabVIEW, CompactRIO)
 - Successful implementation of 3 systems on oil pipelines of JSC " KazTransOil"
 
-<!-- ### Footer
+## Patents
+`RU 2462656`
+Combined hydroacoustic oil pipeline leak detection system
+- R&D result: Patent description combined hydroacoustic oil pipeline leak detection system - a method of combining hydrophone sensors and pressure sensors to detect leaks
 
+<!-- ### Footer
 Last updated: Oct 2019 
 -->
 
