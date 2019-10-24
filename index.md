@@ -16,9 +16,11 @@ Phone: +79670359937
 Backend development Team Lead @ Yandex
 
 ## Skills
-
-Software development, Team management, Machine learning 
-Python, Django, Flask, aiohhtp, Postgresql, Mongodb, Clickhouse 
+- Software development
+- Team management
+- Machine learning 
+- Python, Django, Flask, aiohhtp
+- Postgresql, Mongodb, Clickhouse 
 
 ## Education
 `2007-2009`
