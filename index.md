@@ -53,7 +53,6 @@ __Astrakhan State Technical University__
 `Mar 2019 - now`
 __Team Leader__
 - Yandex Plus (loyalty program like Amazon Prime) backend
-- Yandex Launcher and Phone backend
 - Yandex's Smart TV apps backend
 - 7 developers team management
 
@@ -65,7 +64,6 @@ __Senior software developer__
 __Software developer__
 - Yandex.Launcher backend
 - Android apps recommendation system for Yandex.Launcher
-
 
 ### [PSI](https://www.psi.de)
 `Aug 2012 - Feb 2016`
@@ -84,7 +82,7 @@ __Engineer__
 ## Patents
 `RU 2462656`
 Combined hydroacoustic oil pipeline leak detection system
-- R&D result: Patent description combined hydroacoustic oil pipeline leak detection system - a method of combining hydrophone sensors and pressure sensors to detect leaks
+
 
 <!-- ### Footer
 Last updated: Oct 2019 
