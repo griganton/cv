@@ -23,6 +23,9 @@ Backend development Team Lead @ Yandex
 - Postgresql, Mongodb, Clickhouse 
 
 ## Education
+`2019`
+__Yandex internal courses__
+- Team management skills
 
 `2017-2018`
 __Yandex School of Data Analysis__
