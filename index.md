@@ -21,15 +21,13 @@ Software development, Team management, Machine learning
 Python, Django, Flask, aiohhtp, Postgresql, Mongodb, Clickhouse 
 
 ## Education
+`2007-2009`
+__Gubkin Russian State University of Oil and Gas (National Research University, Moscow)__
+- Automation of technical processes in the oil and gas industry. Master's degree.
 
 `2003-2007`
 __Astrakhan State Technical University__
 - Automation of technical processes in the oil and gas industry. Bachelor's degree.
-
-`2007-2009`
-__Gubkin Russian State University of Oil and Gas (National Research University, Moscow)__
-- Automation of technical processes in the oil and gas industry. Master's degree.- Sizar
-
 
 ## Experience
 
