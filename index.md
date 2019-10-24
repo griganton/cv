@@ -29,7 +29,7 @@ __Yandex School of Data Science__
 Data analysis
 
 `2016`
-__Higher School of Economics (National Research University)___
+__Higher School of Economics (National Research University)__
 Recommendation systems and algorithms 
 
 `2007-2009`
