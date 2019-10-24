@@ -50,30 +50,30 @@ __Astrakhan State Technical University__
 ## Experience
 
 ### [Yandex](https://www.yandex.com)
-`Mar 2019-now`
+`Mar'19-now`
 __Team Leader__
 - Yandex Plus (loyalty program like Amazon Prime) backend
 - Yandex's Smart TV apps backend
 - 7 developers team management
 
-`Nov 2017-Mar 2019`
+`Nov'17-Mar'19`
 __Senior software developer__
 - Yandex.Launcher and Phone backend
 
-`Feb 2016-Nov 2017`
+`Feb'16-Nov'17`
 __Software developer__
 - Yandex.Launcher backend
 - Android apps recommendation system for Yandex.Launcher
 
 ### [PSI](https://www.psi.de)
-`Aug 2012-Feb 2016`
+`Aug'12-Feb'16`
 __Leading engineer__
 - Parametric leak detection systems development based on PSIControl.
 - Python development of data analysis tools and infrastructure.
 - Successfully registered PSI as a supplier of LDS in Transneft.
 
 ### [IMS](http://www.imsholding.ru/)
-`Mar 2008-Aug 2012`
+`Mar'08-Aug'12`
 __Engineer__
 - R&D of leak detection systems based on hydroacoustic and pressure wave methods.
 - Software development based on the National Instruments stack (LabVIEW, CompactRIO)
