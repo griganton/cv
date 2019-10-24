@@ -23,8 +23,17 @@ Backend development Team Lead @ Yandex
 - Postgresql, Mongodb, Clickhouse 
 
 ## Education
+
+`2017-2018`
+__Yandex School of Data Science__
+Data analysis
+
+`2016`
+__Higher School of Economics (National Research University)___
+Recommendation systems and algorithms 
+
 `2007-2009`
-__Gubkin Russian State University of Oil and Gas (National Research University, Moscow)__
+__Gubkin Russian State University of Oil and Gas (National Research University)__
 - Automation of technical processes in the oil and gas industry. Master's degree.
 
 `2003-2007`
