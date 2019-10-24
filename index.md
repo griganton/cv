@@ -26,11 +26,11 @@ Backend development Team Lead @ Yandex
 
 `2017-2018`
 __Yandex School of Data Science__
-Data analysis
+- ML & Data analysis course
 
 `2016`
 __Higher School of Economics (National Research University)__
-Recommendation systems and algorithms 
+- Recommendation systems and algorithms 
 
 `2007-2009`
 __Gubkin Russian State University of Oil and Gas (National Research University)__
