@@ -34,22 +34,22 @@ Automation of technical processes in the oil and gas industry. Master's degree.-
 
 ## Experience
 
-### Yandex (www.yandex.com)
+### [Yandex](https://www.yandex.com)
 `Mar 2019 - now`
 __Team Leader__
-Yandex Plus (loyalty program like Amazon Prime) backend
-Yandex Launcher and Phone backend
-Smart tv apps backend
+- Yandex Plus (loyalty program like Amazon Prime) backend
+- Yandex Launcher and Phone backend
+- Yandex's Smart TV apps backend
 
 `Nov 2017 - Mar 2019`
 __Senior software developer__
-Yandex.Phone backend 
+- Yandex.Phone backend 
 
 `Feb 2016 - Nov 2017`
 __Software developer__
-Building apps recommendation system for Yandex.Launcher
+- Android apps recommendation system for Yandex.Launcher
 
-### PSI (www.psi.de)
+### [PSI](https://www.psi.de)
 `Aug 2012 - Feb 2016`
 __Leading engineer__
 
