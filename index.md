@@ -81,7 +81,7 @@ __Engineer__
 
 ## Patents
 `RU 2462656`
-Combined hydroacoustic oil pipeline leak detection system
+[Combined hydroacoustic oil pipeline leak detection system](https://patents.google.com/patent/RU2462656C2/ru)
 
 
 <!-- ### Footer
