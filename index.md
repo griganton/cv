@@ -56,7 +56,7 @@ __Software developer__
 __Leading engineer__
 - Parametric leak detection systems development based on PSIControl.
 - Python development of data analysis tools and infrastructure.
-- Successfully registered PSI as supplier of LDS in Transneft.
+- Successfully registered PSI as a supplier of LDS in Transneft.
 
 ### [IMS](http://www.imsholding.ru/)
 `Mar 2008 - Aug 2012`
