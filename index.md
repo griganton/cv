@@ -39,28 +39,31 @@ __Team Leader__
 - Yandex Plus (loyalty program like Amazon Prime) backend
 - Yandex Launcher and Phone backend
 - Yandex's Smart TV apps backend
+- 7 developers team management
 
 `Nov 2017 - Mar 2019`
 __Senior software developer__
-- Yandex.Phone backend 
+- Yandex.Launcher and Phone backend
 
 `Feb 2016 - Nov 2017`
 __Software developer__
+- Yandex.Launcher backend
 - Android apps recommendation system for Yandex.Launcher
+
 
 ### [PSI](https://www.psi.de)
 `Aug 2012 - Feb 2016`
 __Leading engineer__
 - Parametric leak detection systems development based on PSIControl.
-Python development of data analysis tools and infrastructure.
-Successfully registered PSI as supplier of LDS in Transneft.
+- Python development of data analysis tools and infrastructure.
+- Successfully registered PSI as supplier of LDS in Transneft.
 
 ### [IMS](http://www.imsholding.ru/)
 `Mar 2008 - Aug 2012`
 __Engineer__
-- Development of leak detection systems based on hydroacoustic and pressure wave methods.
-R&D, software development based on the National Instruments stack (LabVIEW, CompactRIO)
-Successful implementation of 3 systems on oil pipelines of JSC " KazTransOil"
+- R&D of leak detection systems based on hydroacoustic and pressure wave methods.
+- Software development based on the National Instruments stack (LabVIEW, CompactRIO)
+- Successful implementation of 3 systems on oil pipelines of JSC " KazTransOil"
 
 <!-- ### Footer
 
